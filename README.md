@@ -16,7 +16,6 @@ git clone https://github.com/satcasm/Patatap.git
 ## Usage
 
 Go into repo's folder and open index.html. 
-Yep that's it :)
 
 ## Contributing
 
