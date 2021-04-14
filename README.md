@@ -6,7 +6,7 @@ and a sound also plays.
 
 ## Instructions
 
-First fork and clone the repo to get your own version of the application in the local system or you can download the zip file and proceed further.
+First fork and clone the repo to get your own version of the application in the local system or you can download the zip file.
 
 ```
 git clone https://github.com/satcasm/Patatap.git 
