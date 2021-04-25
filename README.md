@@ -1,7 +1,7 @@
 # Patatap
 It is a fun app.When a user presses any alphabet key a circle
 shows up randomly on screen shrinking in size
-and a sound also plays.
+and an awesome sound also plays.
 
 
 ## Instructions
